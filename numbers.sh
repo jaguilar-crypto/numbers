@@ -1,7 +1,7 @@
 #!/bin/bash
 # numbers.sh - Print numbers from 1 to N with Odd/Even labels
 
-read -p "Please enter a positive integer: " number
+read -r -p "Please enter a positive integer: " number
 
 
 if ! [[ "$number" =~ ^[1-9][0-9]*$ ]]; then
