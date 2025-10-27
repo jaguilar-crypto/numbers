@@ -1,6 +1,6 @@
 #! /bin/bash
 # numbers.sh
-# Your Name Here
+# Joana Aguilar
 
 # Prompt the user to enter a positive integer
 read -p "Please enter a positive integer: " number
