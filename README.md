@@ -1,7 +1,7 @@
 # README for Numbers Script
 
 ## Author Information
-- **Name:** [Your Full Name]  
+- **Name:** [Joana Aguilar]  
 - **Course:** [Course Number and Name]  
 - **Assignment:** Numbers Script (Odd/Even Classification)  
 - **Date:** [Date of Completion]  
