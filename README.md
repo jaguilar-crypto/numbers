@@ -2,9 +2,9 @@
 
 ## Author Information
 - **Name:** [Joana Aguilar]  
-- **Course:** [Course Number and Name]  
+- **Course:** [CPSC298]  
 - **Assignment:** Numbers Script (Odd/Even Classification)  
-- **Date:** [Date of Completion]  
+- **Date:** [10/27/25]  
 
 ## Program Description
 This script prompts the user to enter a positive integer and then prints all integers from **1** up to and including that number. Each number is labeled as **“Odd”** or **“Even.”**  
@@ -80,6 +80,6 @@ You should also verify:
 
 ## Resources
 [List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
-
+I used the instructions that are on the assignment as well as chat gbt 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
